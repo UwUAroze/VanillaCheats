@@ -1,0 +1,7 @@
+name: NotCheats
+version: '${project.version}'
+main: me.aroze.vanillacheats.VanillaCheats
+api-version: 1.19
+authors: [ Aroze ]
+description: not. cheats.
+website: aroze.me
